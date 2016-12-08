@@ -60,7 +60,7 @@ section.container.parallax-4 {
   background-image: url('./images/bg_4.jpeg')
 }
 
-
+/* MEDIA QUERIES */
 @media all and (min-width: 600px) {
   section.container h2 {
     font-size: 50px;
